@@ -1,0 +1,19 @@
+﻿  RemoteShellcodeInjection.c
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(36,17): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(38,17): warning C4047: 'initializing': 'RPC_STATUS' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(84,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(84,59): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(138,19): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(170,41): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(170,41): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 3
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(170,72): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(170,72): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(147,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(148,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(181,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+D:\Malware Development\maldev academy\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(184,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProcShellcodeExec.vcxproj -> D:\Malware Development\maldev academy\ProcShellcodeExec\x64\Release\ProcShellcodeExec.exe
